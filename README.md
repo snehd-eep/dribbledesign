@@ -1,6 +1,6 @@
 # Dribble Design
 
-A new Flutter application.
+Coding the dribble design in the below link in flutter. 
 
 <p>https://cdn.dribbble.com/users/2345673/screenshots/7902411/downloads/zendaya.png
 
